@@ -1,0 +1,16 @@
+{
+  "name": "catalogue_producer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "stomp-client": "^0.9.0",
+    "xml2js": "^0.4.19"
+  }
+}
